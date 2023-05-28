@@ -1,5 +1,5 @@
 ### Hi there, 
-#### I am Alejandro Gomez, Python backend developer
+#### I am Alejandro Gomez, Python and C++ backend developer
 
 <!--
 **xandross389/xandross389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
