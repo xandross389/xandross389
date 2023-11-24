@@ -1,5 +1,5 @@
 ### Hi there, 
-#### I am Alejandro Gomez, C++ and Python backend developer
+#### I am Alejandro Gomez, Python and C++ backend developer
 
 <!--
 **xandross389/xandross389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xandross389&theme=nord_bright)
 
 <div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=xandross389&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=xandross389&show_icons=true&theme=nord_bright
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -28,10 +29,15 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=xandross389&show_icons=true" />
 </picture>
+
 </div>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xandross389&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xandross389&theme=nord_bright)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xandross389&theme=nord_bright) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xandross389&theme=nord_bright)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandross389&layout=compact)](https://github.com/xandross389/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandross389&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
